@@ -1,0 +1,9 @@
+.only-for-mobile-card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.only-for-mobile-card {
+  background-color: var(--accent);
+}
